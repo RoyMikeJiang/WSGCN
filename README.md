@@ -1,4 +1,4 @@
-# WS-GCN: Integrating GCN with Weak Supervision for Enhanced 3D Human Pose Estimation (ICCAI 2024 Under Review)
+# WS-GCN: Integrating GCN with Weak Supervision for Enhanced 3D Human Pose Estimation (ICCAI 2024)
 
 This repository holds the Pytorch implementation of [WS-GCN: Integrating GCN with Weak Supervision for Enhanced 3D Human Pose Estimation](https://github.com/RoyMikeJiang/WSGCN) by [Jiang Zhenxiang](https://github.com/RoyMikeJiang/), [Chen Yingyu](https://github.com/littlecyy/).
 
